@@ -5,3 +5,4 @@
 - git clone https://github.com/sirdki911/template.git
 - Перейти в папку template
 - Запуск index.html
+- Создали ветку Женя
